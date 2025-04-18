@@ -1,4 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Blog | K Bose'
 theme = 're-terminal'
+[params]
+  # ["orange", "blue", "red", "green", "pink", "paper"]
+  themeColor = "green"
